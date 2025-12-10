@@ -1,0 +1,5 @@
+
+{
+  "name": "Spotify Clone UI",
+  "description": "A visually stunning and functional UI clone of the Spotify web player, built with React, TypeScript, and Tailwind CSS. This application features a complete user interface with mock data for playlists, songs, and artists, providing an immersive experience without real audio playback or backend APIs."
+}
